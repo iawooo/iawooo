@@ -1,5 +1,5 @@
-# 👋 嗨，我是 阿伟!
-我是一位充满激情的Web爱好者，热爱构建 Web 应用程序和探索新技术. 🚀
+# 👋 嗨，我是阿伟!
+一位充满激情的Web爱好者，热爱构建 Web 应用程序和探索新技术. 🚀
 ---
 ## 🚀 Featured Projects
 - **[书签导航](https://github.com/your-username/bookmark-navigator)**: 轻量级的书签管理工具，具有拖放排序、备份/恢复和美丽的樱花效果. 🌸
