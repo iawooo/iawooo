@@ -12,5 +12,5 @@
 </div>
 👀 Visitors
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="Visitor Count">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="👀 Visitors">
 </div>
