@@ -10,7 +10,7 @@
   <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>
-## 👀 Visitors
+👀 Visitors
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=your-username.your-username" alt="Visitor Count">
 </div>
