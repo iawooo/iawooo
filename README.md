@@ -1,15 +1,6 @@
 # 👋 Hi, I'm Alythos Wei!
 I'm a passionate developer who loves building web applications and exploring new technologies. 🚀
 ---
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" alt="Top Languages">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak">
-</div>
-
----
 ## 🚀 Featured Projects
 - **[Bookmark Navigator](https://github.com/your-username/bookmark-navigator)**: A lightweight bookmark management tool with drag-and-drop sorting, backup/restore, and a beautiful cherry blossom effect. 🌸
 ---
