@@ -5,10 +5,11 @@
 - **[书签导航](https://github.com/your-username/bookmark-navigator)**: 轻量级的书签管理工具，具有拖放排序、备份/恢复和美丽的樱花效果. 🌸
 ---
 ## 🌐 与我联系
+
 <div align="center">
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your-profile"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://t.me/AwcttBot"><img src="https://img.shields.io/badge/-Telegram-0088CC?style=flat-square&logo=telegram&logoColor=white"></a>
+  <a href="weixin://dl/chat?your-wechat-id"><img src="https://img.shields.io/badge/-WeChat-07C160?style=flat-square&logo=weixin&logoColor=white"></a>
+  <a href="mailto:iawovo@qq.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </div>
 
 <div align="center">
